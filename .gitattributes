@@ -33,6 +33,9 @@
 *.css linguist-documentation=false
 *.css linguist-language=CSS
 # Cool source file
+*.cl linguist-detectable=true
+*.cl linguist-documentation=false
+*.cl linguist-language=Cool
 *.cool linguist-detectable=true
 *.cool linguist-documentation=false
 *.cool linguist-language=Cool
@@ -165,6 +168,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 5 (2022, Wednesday, September 14th at 1:51 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 6 (2022, Wednesday, September 14th at 5:25 pm PST)
+# Line count (including blank lines and compiler line): 174
 # End of script
